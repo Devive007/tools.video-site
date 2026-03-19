@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tools.video">
-    <img src="assets/logo.svg" alt="tools.video" width="120" />
+    <img src="assets/logo.png" alt="tools.video" width="120" />
   </a>
 </p>
 
